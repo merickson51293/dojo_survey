@@ -1,0 +1,10 @@
+#wrapper {
+    padding: 10px;
+    border: 2px black solid;
+    width: 300px;
+    margin-left: 700px;
+}
+
+p {
+    color: red;
+}
